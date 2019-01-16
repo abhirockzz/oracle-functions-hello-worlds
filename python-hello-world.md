@@ -28,7 +28,7 @@ Change directory to the `helloworld-func-python` directory created in the previo
 
 Enter the following single command to build the function and its dependencies as a Docker image called `helloworld-func-python`, push the image to the specified Docker registry, and deploy the function to Oracle Functions:
 
-`fn deploy --app helloworld-app`
+`fn -v deploy --app helloworld-app`
 
 ## Invoke your function
 
