@@ -2,7 +2,7 @@
 
 Get started with Java, Nodejs, Python, Golang and Ruby functions on Oracle Functions
 
-- Pre-requisite - [Create Applications](create-application.md)
+- Pre-requisite - [Create Application](create-application.md)
 - [Java](java-hello-world.md)
 - [Nodejs](node-hello-world.md)
 - [Python](python-hello-world.md)
